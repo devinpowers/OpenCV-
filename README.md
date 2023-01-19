@@ -65,3 +65,9 @@ and finally run the binary
 ```
 ./test
 ```
+
+
+It should output the version of the OpenCV library that you have installed.
+
+Please note that the versions of the dependencies and the openCV may vary depending on the version you have downloaded.
+Also, this is just an example of how to install OpenCV on macOS, and it's recommended to check the OpenCV's documentation for more detailed information and specific instructions.
